@@ -1,0 +1,44 @@
+@font-face {
+  font-family: CaskaydiaCove;
+  src: url("../assets/fonts/CaskaydiaCove.ttf");
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  font-size: 16pt;
+  font-family: "CaskaydiaCove", "Roboto Light", sans-serif;
+}
+
+#app {
+  --trans: scale 0.2s, translate 0.2s, filter 0.2s, background-color 0.4s, opacity 0.4s;
+  --shadow: 0 0 8px 2px #0008;
+  --shadow-low: 0 0 6px 2px #0004;
+  --text-colour: black;
+  --text-colour-inverted: white;
+  --colour-background-light: #fff;
+  --colour-background-dark: #f8f8f8;
+  --colour-inset-light: #e8e8e8;
+  --colour-inset-dark: #eee;
+  --codeblock-header: #335;
+  --codeblock: #272747;
+  --border-radius-low: 0.6rem;
+  --border-radius-med: 1rem;
+  --border-radius-high: 0rem;
+  --colour-pink-light: #fec4ff;
+  --colour-pink-dark: #fd99ff;
+  transition: var(--trans);
+  background-color: var(--colour-inset-dark);
+}
+#app.dark {
+  --colour-background-light: #333;
+  --colour-background-dark: #282828;
+  --colour-inset-light: #333;
+  --colour-inset-dark: #222;
+  --text-colour: white;
+  --text-colour-inverted: black;
+}
+
+/*# sourceMappingURL=global-style.css.map */

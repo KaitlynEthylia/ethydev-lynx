@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs163" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:268.046px;font-family:'CaskaydiaCove Nerd Font';-inkscape-font-specification:'CaskaydiaCove Nerd Font';fill:#f7ff85;fill-opacity:1;stroke-width:1.00517"
+     x="111.45917"
+     y="138.73474"
+     id="text431"
+     transform="scale(1.0053247,0.99470351)"><tspan
+       id="tspan429"
+       x="111.45917"
+       y="138.73474"
+       style="fill:#f7ff85;fill-opacity:1;stroke-width:1.00517">x</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:265.481px;font-family:'CaskaydiaCove Nerd Font';-inkscape-font-specification:'CaskaydiaCove Nerd Font';fill:#ff85ff;fill-opacity:1;stroke-width:0.995555"
+     x="50.222263"
+     y="197.99974"
+     id="text435"><tspan
+       id="tspan433"
+       x="50.222263"
+       y="197.99974"
+       style="fill:#ff85ff;fill-opacity:1;stroke-width:0.995555">n</tspan></text>
+  <path
+     style="fill:#f7ff85"
+     d="m 2.415094,227.00001 21.735851,-2.36362 C 58.44528,220.85457 76.5585,204.07276 91.049057,159.16366 L 127.99999,45 H 101.43397 L 70.1585,151.36366 H 68.34718 L 26.56604,45 H 0 l 50.95849,125.27276 h 12.43773 c -9.17735,20.68181 -21.735841,29.54544 -42.143388,31.90909 l -20.045284,2.36363 z"
+     id="path154" />
+  <text
+     xml:space="preserve"
+     style="font-size:266.31px;fill:#ff85ff;fill-opacity:1;stroke-width:0.998661"
+     x="-0.76740462"
+     y="255.51366"
+     id="text377"
+     transform="scale(0.99810042,1.0019032)"><tspan
+       id="tspan375"
+       x="-0.76740462"
+       y="255.51366"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:266.31px;font-family:'CaskaydiaCove Nerd Font';-inkscape-font-specification:'CaskaydiaCove Nerd Font';fill:#ff85ff;fill-opacity:1;stroke-width:0.998661">L</tspan></text>
+  <path
+     d="M 2.4075467,227.03635 24.143517,224.67273 C 58.438046,220.89091 76.551367,204.1091 91.042,159.2 l -40.090784,11.1091 h 12.437798 c -9.1774,20.68181 -21.73596,29.54544 -42.143623,31.90909 L 1.2,204.58182 Z"
+     style="fill:#f7ff85;stroke-width:1"
+     id="path3247" />
+</svg>
