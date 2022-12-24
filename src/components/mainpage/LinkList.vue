@@ -33,7 +33,7 @@ export default defineComponent({
     getLinks(show) {
       if(!show) { return }
       this.links = []
-      const get = fetch("http://localhost:8085/@list", {
+      fetch(import.meta.env.VITE_SHORTY_URL, {
         method: "GET",
 
       }).then(response => {
@@ -43,7 +43,7 @@ export default defineComponent({
 
             let expiration
             if(link.persist) { expiration = "Persist" }
-            else if(link.expirationTime != 9223372036854776000) { expiration = "Time" }
+            else if(link.expirationTime !== 9223372036854776000) { expiration = "Time" }
             else { expiration = "Clicks" }
 
             let timer

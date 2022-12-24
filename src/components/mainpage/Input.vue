@@ -45,7 +45,7 @@ export default defineComponent({
         })
       }
       try {
-        fetch("http://localhost:8085", requestOptions).then(response => {
+        fetch(import.meta.env.VITE_SHORTY_URL, requestOptions).then(response => {
           console.log(response)
         })
       } catch (e) {
